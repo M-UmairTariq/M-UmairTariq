@@ -39,22 +39,6 @@
 
 ---
 
-### 🏆 Achievements
-- **Software Engineer Fellow** at Headstarter AI
-  - Software Engineer Fellow at Headstarter AI. 7-week fellowship to create innovative AI projects.
-   
-- **Lead Graphic Designer** at HDW (Help Divorce Women)
-  - Created cohesive branding materials for social media and web, enhancing the project's communication.
-  
-- **Team Lead** at Google Developer Student Club, IMSciences
-  - Provided technical support and guidance to junior developers while creating impactful graphic designs.
-
-- **Project Highlights**
-  - Successfully developed and launched multiple projects including Guard Patrol and Tourism Recommender App.
-  - Led teams to implement innovative solutions with positive feedback from clients.
-
----
-
 ### 📫 Let's Connect
 - **Email:** [mohammadumair.dev@gmail.com](mailto:mohammadumair.dev@gmail.com)
 - **LinkedIn:** [linkedin.com/in/m-umairtariq](https://www.linkedin.com/in/m-umairtariq)
