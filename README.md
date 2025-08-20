@@ -26,45 +26,6 @@ I specialize in creating **AI-powered applications**, **voice-enabled conversati
 
 ---
 
-### 📂 Featured Projects
-
-#### 🧑‍🏫 AI Language Tutor Web App
-An interactive CEFR-based language tutoring platform using **Azure OpenAI**, **speech services**, and **real-time feedback loop**. Includes:
-- Chat & photo-based learning modes
-- Key-point driven AI assessment
-- WebSocket-based streaming + Text-to-Speech
-- Leaderboards, topic tracking, and session analytics
-
-#### 🤖 AI Appointment Booking Bot (Twilio + GPT + Retell)
-Voice bot that handles real-time clinic appointment booking, cancellations, and doctor queries using:
-- Twilio Voice & Retell SDK
-- GPT-4 Function Calling
-- Cliniko API integration
-
-#### 🗂️ AI File Organizer (Smart Naming + Categorization)
-Upload a file, extract context, rename it intelligently using GPT, and auto-organize it in folders by category.
-
-#### 🌐 RAG-Powered Knowledge Assistant
-Built a production-grade **Retrieval-Augmented Generation** pipeline using:
-- FastAPI backend
-- Pinecone vector DB
-- OpenAI Embeddings
-- Query answering with Markdown, PDF, and text support
-
-#### 🔎 AI Scraper & Enricher (Resonance.Holdings)
-Automated scraping & enrichment of investor and startup data:
-- LinkedIn, Crunchbase, and deep investor insights
-- Proxy rotation, anti-bot handling
-- Output structured for downstream ML pipelines
-
-#### 🏕️ NomadPK – Personalized Travel Recommender
-Flutter app with real-time recommendation engine using collaborative filtering to suggest locations, hotels, and food spots in Pakistan.
-
-#### 📦 Canteen Management System (MERN)
-Complete POS and inventory tracking system with dynamic UI/UX and real-time dashboard analytics.
-
----
-
 ### 🛠️ Tech Stack
 
 #### Languages
