@@ -1,5 +1,4 @@
 <h1 align="center">Hi there, I am Mohammad Umair 👋</h1>
-<h3 align="center">AI Engineer</h3>
 
 <p align="center">
   <a href="https://github.com/M-UmairTariq"><img src="https://img.shields.io/github/followers/M-UmairTariq?label=Follow&style=social" alt="GitHub Followers"></a>
