@@ -15,22 +15,16 @@ I specialize in creating **AI-powered applications**, **AI automations**, **voic
 
 
 ### 🛠️ Tech Stack
-
-#### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-F7DF1E?logo=typescript&logoColor=black)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
-
-#### Frameworks & Libraries
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
-
-#### Tools & Platforms
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white)
@@ -39,15 +33,6 @@ I specialize in creating **AI-powered applications**, **AI automations**, **voic
 ![Retell](https://img.shields.io/badge/-Retell-AE47E9)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white)
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-UmairTariq&show_icons=true&theme=radical" alt="Umair's GitHub Stats" />
-</p>
-
----
 
 ### 📫 Connect With Me
 - 📧 Email: [mohammadumair.dev@gmail.com](mailto:mohammadumair.dev@gmail.com)
